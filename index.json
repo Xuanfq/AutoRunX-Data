@@ -1,0 +1,678 @@
+{
+    "index": {
+        "basenode": {
+            "en": {
+                "all": {
+                    "ctrl-for": {
+                        "config.json": "config.json",
+                        "ctrl-for.py": "ctrl-for.py",
+                        "README.md": "README.md"
+                    },
+                    "ctrl-if": {
+                        "config.json": "config.json",
+                        "ctrl-if.py": "ctrl-if.py",
+                        "README.md": "README.md"
+                    },
+                    "ctrl-queue": {
+                        "config.json": "config.json",
+                        "ctrl-queue.py": "ctrl-queue.py",
+                        "README.md": "README.md"
+                    },
+                    "ctrl-select": {
+                        "config.json": "config.json",
+                        "ctrl-select.py": "ctrl-select.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-bool": {
+                        "config.json": "config.json",
+                        "dtio-i-bool.py": "dtio-i-bool.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-float": {
+                        "config.json": "config.json",
+                        "dtio-i-float.py": "dtio-i-float.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-int": {
+                        "config.json": "config.json",
+                        "dtio-i-int.py": "dtio-i-int.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-string": {
+                        "config.json": "config.json",
+                        "dtio-i-string.py": "dtio-i-string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-abs": {
+                        "config.json": "config.json",
+                        "dtpc-abs.py": "dtpc-abs.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-add": {
+                        "config.json": "config.json",
+                        "dtpc-add.py": "dtpc-add.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-and": {
+                        "config.json": "config.json",
+                        "dtpc-and.py": "dtpc-and.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-bool2string": {
+                        "config.json": "config.json",
+                        "dtpc-bool2string.py": "dtpc-bool2string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-divide": {
+                        "config.json": "config.json",
+                        "dtpc-divide.py": "dtpc-divide.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-eq_number": {
+                        "config.json": "config.json",
+                        "dtpc-eq_number.py": "dtpc-eq_number.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-eq_string": {
+                        "config.json": "config.json",
+                        "dtpc-eq_string.py": "dtpc-eq_string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-ge": {
+                        "config.json": "config.json",
+                        "dtpc-ge.py": "dtpc-ge.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-gt": {
+                        "config.json": "config.json",
+                        "dtpc-gt.py": "dtpc-gt.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-le": {
+                        "config.json": "config.json",
+                        "dtpc-le.py": "dtpc-le.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-logical_select_bool": {
+                        "config.json": "config.json",
+                        "dtpc-logical_select_bool.py": "dtpc-logical_select_bool.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-logical_select_number": {
+                        "config.json": "config.json",
+                        "dtpc-logical_select_number.py": "dtpc-logical_select_number.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-logical_select_string": {
+                        "config.json": "config.json",
+                        "dtpc-logical_select_string.py": "dtpc-logical_select_string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-lt": {
+                        "config.json": "config.json",
+                        "dtpc-lt.py": "dtpc-lt.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-mod": {
+                        "config.json": "config.json",
+                        "dtpc-mod.py": "dtpc-mod.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-multiply": {
+                        "config.json": "config.json",
+                        "dtpc-multiply.py": "dtpc-multiply.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-not": {
+                        "config.json": "config.json",
+                        "dtpc-not.py": "dtpc-not.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-number2string": {
+                        "config.json": "config.json",
+                        "dtpc-number2string.py": "dtpc-number2string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-or": {
+                        "config.json": "config.json",
+                        "dtpc-or.py": "dtpc-or.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-subtract": {
+                        "config.json": "config.json",
+                        "dtpc-subtract.py": "dtpc-subtract.py",
+                        "README.md": "README.md"
+                    },
+                    "evrx-start": {
+                        "config.json": "config.json",
+                        "evrx-start.py": "evrx-start.py",
+                        "README.md": "README.md"
+                    },
+                    "evtx-end": {
+                        "config.json": "config.json",
+                        "evtx-end.py": "evtx-end.py",
+                        "README.md": "README.md"
+                    },
+                    "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1": {
+                        "config.json": "config.json",
+                        "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py": "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py",
+                        "README.md": "README.md"
+                    }
+                },
+                "type": {
+                    "dataio": {
+                        "dtio-i-bool": {
+                            "config.json": "config.json",
+                            "dtio-i-bool.py": "dtio-i-bool.py",
+                            "README.md": "README.md"
+                        },
+                        "dtio-i-float": {
+                            "config.json": "config.json",
+                            "dtio-i-float.py": "dtio-i-float.py",
+                            "README.md": "README.md"
+                        },
+                        "dtio-i-int": {
+                            "config.json": "config.json",
+                            "dtio-i-int.py": "dtio-i-int.py",
+                            "README.md": "README.md"
+                        },
+                        "dtio-i-string": {
+                            "config.json": "config.json",
+                            "dtio-i-string.py": "dtio-i-string.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "dataprocess": {
+                        "dtpc-abs": {
+                            "config.json": "config.json",
+                            "dtpc-abs.py": "dtpc-abs.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-add": {
+                            "config.json": "config.json",
+                            "dtpc-add.py": "dtpc-add.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-and": {
+                            "config.json": "config.json",
+                            "dtpc-and.py": "dtpc-and.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-bool2string": {
+                            "config.json": "config.json",
+                            "dtpc-bool2string.py": "dtpc-bool2string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-divide": {
+                            "config.json": "config.json",
+                            "dtpc-divide.py": "dtpc-divide.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-eq_number": {
+                            "config.json": "config.json",
+                            "dtpc-eq_number.py": "dtpc-eq_number.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-eq_string": {
+                            "config.json": "config.json",
+                            "dtpc-eq_string.py": "dtpc-eq_string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-ge": {
+                            "config.json": "config.json",
+                            "dtpc-ge.py": "dtpc-ge.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-gt": {
+                            "config.json": "config.json",
+                            "dtpc-gt.py": "dtpc-gt.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-le": {
+                            "config.json": "config.json",
+                            "dtpc-le.py": "dtpc-le.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-logical_select_bool": {
+                            "config.json": "config.json",
+                            "dtpc-logical_select_bool.py": "dtpc-logical_select_bool.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-logical_select_number": {
+                            "config.json": "config.json",
+                            "dtpc-logical_select_number.py": "dtpc-logical_select_number.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-logical_select_string": {
+                            "config.json": "config.json",
+                            "dtpc-logical_select_string.py": "dtpc-logical_select_string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-lt": {
+                            "config.json": "config.json",
+                            "dtpc-lt.py": "dtpc-lt.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-mod": {
+                            "config.json": "config.json",
+                            "dtpc-mod.py": "dtpc-mod.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-multiply": {
+                            "config.json": "config.json",
+                            "dtpc-multiply.py": "dtpc-multiply.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-not": {
+                            "config.json": "config.json",
+                            "dtpc-not.py": "dtpc-not.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-number2string": {
+                            "config.json": "config.json",
+                            "dtpc-number2string.py": "dtpc-number2string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-or": {
+                            "config.json": "config.json",
+                            "dtpc-or.py": "dtpc-or.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-subtract": {
+                            "config.json": "config.json",
+                            "dtpc-subtract.py": "dtpc-subtract.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "eventreceive": {
+                        "evrx-start": {
+                            "config.json": "config.json",
+                            "evrx-start.py": "evrx-start.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "eventtransmit": {
+                        "evtx-end": {
+                            "config.json": "config.json",
+                            "evtx-end.py": "evtx-end.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "flowcontrol": {
+                        "ctrl-for": {
+                            "config.json": "config.json",
+                            "ctrl-for.py": "ctrl-for.py",
+                            "README.md": "README.md"
+                        },
+                        "ctrl-if": {
+                            "config.json": "config.json",
+                            "ctrl-if.py": "ctrl-if.py",
+                            "README.md": "README.md"
+                        },
+                        "ctrl-queue": {
+                            "config.json": "config.json",
+                            "ctrl-queue.py": "ctrl-queue.py",
+                            "README.md": "README.md"
+                        },
+                        "ctrl-select": {
+                            "config.json": "config.json",
+                            "ctrl-select.py": "ctrl-select.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "flowfunction": {
+                        "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1": {
+                            "config.json": "config.json",
+                            "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py": "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py",
+                            "README.md": "README.md"
+                        }
+                    }
+                }
+            },
+            "zh": {
+                "all": {
+                    "ctrl-for": {
+                        "config.json": "config.json",
+                        "ctrl-for.py": "ctrl-for.py",
+                        "README.md": "README.md"
+                    },
+                    "ctrl-if": {
+                        "config.json": "config.json",
+                        "ctrl-if.py": "ctrl-if.py",
+                        "README.md": "README.md"
+                    },
+                    "ctrl-queue": {
+                        "config.json": "config.json",
+                        "ctrl-queue.py": "ctrl-queue.py",
+                        "README.md": "README.md"
+                    },
+                    "ctrl-select": {
+                        "config.json": "config.json",
+                        "ctrl-select.py": "ctrl-select.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-bool": {
+                        "config.json": "config.json",
+                        "dtio-i-bool.py": "dtio-i-bool.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-float": {
+                        "config.json": "config.json",
+                        "dtio-i-float.py": "dtio-i-float.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-int": {
+                        "config.json": "config.json",
+                        "dtio-i-int.py": "dtio-i-int.py",
+                        "README.md": "README.md"
+                    },
+                    "dtio-i-string": {
+                        "config.json": "config.json",
+                        "dtio-i-string.py": "dtio-i-string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-abs": {
+                        "config.json": "config.json",
+                        "dtpc-abs.py": "dtpc-abs.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-add": {
+                        "config.json": "config.json",
+                        "dtpc-add.py": "dtpc-add.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-and": {
+                        "config.json": "config.json",
+                        "dtpc-and.py": "dtpc-and.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-bool2string": {
+                        "config.json": "config.json",
+                        "dtpc-bool2string.py": "dtpc-bool2string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-divide": {
+                        "config.json": "config.json",
+                        "dtpc-divide.py": "dtpc-divide.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-eq_number": {
+                        "config.json": "config.json",
+                        "dtpc-eq_number.py": "dtpc-eq_number.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-eq_string": {
+                        "config.json": "config.json",
+                        "dtpc-eq_string.py": "dtpc-eq_string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-ge": {
+                        "config.json": "config.json",
+                        "dtpc-ge.py": "dtpc-ge.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-gt": {
+                        "config.json": "config.json",
+                        "dtpc-gt.py": "dtpc-gt.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-le": {
+                        "config.json": "config.json",
+                        "dtpc-le.py": "dtpc-le.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-logical_select_bool": {
+                        "config.json": "config.json",
+                        "dtpc-logical_select_bool.py": "dtpc-logical_select_bool.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-logical_select_number": {
+                        "config.json": "config.json",
+                        "dtpc-logical_select_number.py": "dtpc-logical_select_number.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-logical_select_string": {
+                        "config.json": "config.json",
+                        "dtpc-logical_select_string.py": "dtpc-logical_select_string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-lt": {
+                        "config.json": "config.json",
+                        "dtpc-lt.py": "dtpc-lt.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-mod": {
+                        "config.json": "config.json",
+                        "dtpc-mod.py": "dtpc-mod.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-multiply": {
+                        "config.json": "config.json",
+                        "dtpc-multiply.py": "dtpc-multiply.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-not": {
+                        "config.json": "config.json",
+                        "dtpc-not.py": "dtpc-not.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-number2string": {
+                        "config.json": "config.json",
+                        "dtpc-number2string.py": "dtpc-number2string.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-or": {
+                        "config.json": "config.json",
+                        "dtpc-or.py": "dtpc-or.py",
+                        "README.md": "README.md"
+                    },
+                    "dtpc-subtract": {
+                        "config.json": "config.json",
+                        "dtpc-subtract.py": "dtpc-subtract.py",
+                        "README.md": "README.md"
+                    },
+                    "evrx-start": {
+                        "config.json": "config.json",
+                        "evrx-start.py": "evrx-start.py",
+                        "README.md": "README.md"
+                    },
+                    "evtx-end": {
+                        "config.json": "config.json",
+                        "evtx-end.py": "evtx-end.py",
+                        "README.md": "README.md"
+                    },
+                    "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1": {
+                        "config.json": "config.json",
+                        "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py": "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py",
+                        "README.md": "README.md"
+                    }
+                },
+                "type": {
+                    "dataio": {
+                        "dtio-i-bool": {
+                            "config.json": "config.json",
+                            "dtio-i-bool.py": "dtio-i-bool.py",
+                            "README.md": "README.md"
+                        },
+                        "dtio-i-float": {
+                            "config.json": "config.json",
+                            "dtio-i-float.py": "dtio-i-float.py",
+                            "README.md": "README.md"
+                        },
+                        "dtio-i-int": {
+                            "config.json": "config.json",
+                            "dtio-i-int.py": "dtio-i-int.py",
+                            "README.md": "README.md"
+                        },
+                        "dtio-i-string": {
+                            "config.json": "config.json",
+                            "dtio-i-string.py": "dtio-i-string.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "dataprocess": {
+                        "dtpc-abs": {
+                            "config.json": "config.json",
+                            "dtpc-abs.py": "dtpc-abs.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-add": {
+                            "config.json": "config.json",
+                            "dtpc-add.py": "dtpc-add.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-and": {
+                            "config.json": "config.json",
+                            "dtpc-and.py": "dtpc-and.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-bool2string": {
+                            "config.json": "config.json",
+                            "dtpc-bool2string.py": "dtpc-bool2string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-divide": {
+                            "config.json": "config.json",
+                            "dtpc-divide.py": "dtpc-divide.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-eq_number": {
+                            "config.json": "config.json",
+                            "dtpc-eq_number.py": "dtpc-eq_number.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-eq_string": {
+                            "config.json": "config.json",
+                            "dtpc-eq_string.py": "dtpc-eq_string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-ge": {
+                            "config.json": "config.json",
+                            "dtpc-ge.py": "dtpc-ge.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-gt": {
+                            "config.json": "config.json",
+                            "dtpc-gt.py": "dtpc-gt.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-le": {
+                            "config.json": "config.json",
+                            "dtpc-le.py": "dtpc-le.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-logical_select_bool": {
+                            "config.json": "config.json",
+                            "dtpc-logical_select_bool.py": "dtpc-logical_select_bool.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-logical_select_number": {
+                            "config.json": "config.json",
+                            "dtpc-logical_select_number.py": "dtpc-logical_select_number.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-logical_select_string": {
+                            "config.json": "config.json",
+                            "dtpc-logical_select_string.py": "dtpc-logical_select_string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-lt": {
+                            "config.json": "config.json",
+                            "dtpc-lt.py": "dtpc-lt.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-mod": {
+                            "config.json": "config.json",
+                            "dtpc-mod.py": "dtpc-mod.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-multiply": {
+                            "config.json": "config.json",
+                            "dtpc-multiply.py": "dtpc-multiply.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-not": {
+                            "config.json": "config.json",
+                            "dtpc-not.py": "dtpc-not.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-number2string": {
+                            "config.json": "config.json",
+                            "dtpc-number2string.py": "dtpc-number2string.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-or": {
+                            "config.json": "config.json",
+                            "dtpc-or.py": "dtpc-or.py",
+                            "README.md": "README.md"
+                        },
+                        "dtpc-subtract": {
+                            "config.json": "config.json",
+                            "dtpc-subtract.py": "dtpc-subtract.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "eventreceive": {
+                        "evrx-start": {
+                            "config.json": "config.json",
+                            "evrx-start.py": "evrx-start.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "eventtransmit": {
+                        "evtx-end": {
+                            "config.json": "config.json",
+                            "evtx-end.py": "evtx-end.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "flowcontrol": {
+                        "ctrl-for": {
+                            "config.json": "config.json",
+                            "ctrl-for.py": "ctrl-for.py",
+                            "README.md": "README.md"
+                        },
+                        "ctrl-if": {
+                            "config.json": "config.json",
+                            "ctrl-if.py": "ctrl-if.py",
+                            "README.md": "README.md"
+                        },
+                        "ctrl-queue": {
+                            "config.json": "config.json",
+                            "ctrl-queue.py": "ctrl-queue.py",
+                            "README.md": "README.md"
+                        },
+                        "ctrl-select": {
+                            "config.json": "config.json",
+                            "ctrl-select.py": "ctrl-select.py",
+                            "README.md": "README.md"
+                        }
+                    },
+                    "flowfunction": {
+                        "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1": {
+                            "config.json": "config.json",
+                            "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py": "func-test-1692798936169238-bc2b8ee241bc11ee8331dcf505272cb8-0_0_1.py",
+                            "README.md": "README.md"
+                        }
+                    }
+                }
+            }
+        },
+        "nodemarket": {
+            "en": {},
+            "zh": {}
+        }
+    },
+    "api":{
+        "basenode":{
+            "nodepackage":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/",
+            "nodeconfig":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/config.json",
+            "nodedocument":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/README.md"
+        },
+        "nodemarket":{
+            "nodepackage":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/nodemarket/${lang}/all/${nodeId}/",
+            "nodeconfig":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/nodemarket/${lang}/all/${nodeId}/config.json",
+            "nodedocument":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/nodemarket/${lang}/all/${nodeId}/README.md"
+        }
+    }
+}
