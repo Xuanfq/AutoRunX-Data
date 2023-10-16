@@ -658,7 +658,7 @@
                 }
             }
         },
-        "nodemarket": {
+        "marketnode": {
             "en": {},
             "zh": {}
         }
@@ -667,12 +667,13 @@
         "basenode":{
             "nodepackage":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/",
             "nodeconfig":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/config.json",
-            "nodedocument":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/README.md"
+            "nodedocument":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/all/${nodeId}/README.md",
+            "nodeallconfigbytype":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/basenode/${lang}/misc/allconfigbytype.json"
         },
-        "nodemarket":{
-            "nodepackage":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/nodemarket/${lang}/all/${nodeId}/",
-            "nodeconfig":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/nodemarket/${lang}/all/${nodeId}/config.json",
-            "nodedocument":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/nodemarket/${lang}/all/${nodeId}/README.md"
+        "marketnode":{
+            "nodepackage":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/marketnode/${lang}/all/${nodeId}/",
+            "nodeconfig":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/marketnode/${lang}/all/${nodeId}/config.json",
+            "nodedocument":"https://raw.githubusercontent.com/Xuanfq/AutoRunX-Data/master/marketnode/${lang}/all/${nodeId}/README.md"
         }
     }
 }
